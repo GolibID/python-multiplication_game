@@ -13,4 +13,4 @@
 
 실행방법 
 명령 프롬프트나 터미널을 열고 파일이 저장된 디렉토리로 이동한 후, ‘python multiplication_game.py’명령어를 입력하여 게임을 실행한다.
-	![image](https://github.com/GolibID/python-multiplication_game/assets/92590375/b668c67a-d75c-4440-bb70-479c08fdb643)
+
